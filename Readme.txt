@@ -1,0 +1,1 @@
+The code is a simple classifier based of on women rape cases in the USA. It predicts the safety of a particular location based on the data present in "analysis.cv"
